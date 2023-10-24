@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nDuEyPE1akC1MOQs7uZZ58amv2YKKHdMP+CPYAnlwgU=",
+  "Source": "OrdersApp",
+  "BasePath": "_content/OrdersApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
